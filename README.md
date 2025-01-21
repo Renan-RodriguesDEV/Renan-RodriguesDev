@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Renan S Rodrigues</h1>
 <h3 align="center">I'm a Python and Java developer in Brazil</h3>
 
-- 🔐 I’m currently working on VJ Bots **App Promotions**
+- 🔐 I’m currently working on VJ Bots **Promotions App**
 
 - ⌨️ I’m currently learning **Python for Machine learning, deep learning and data science**
 
