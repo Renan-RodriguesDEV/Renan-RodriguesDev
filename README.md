@@ -8,11 +8,11 @@
 (Python | Java | React Native | Node JS | Vue JS |Machine Learning | Data Science | Deep Learning | HTML | CSS | JavaScript | SQL) 💻 
 (Django | Flask | Spring Boot | Tensoflow | Pytorch | Sckit-Learn | JPA | FastAPI | Pandas | SQLAlchemy) 👽
 - 👩‍💻 Python Mid-level Developer @[VJ Bots](https://www.vjbots.com.br/)
-- 🎥 Tech content producer, I create programming tutorials on my [YouTube Channel](https://www.youtube.com/@Dev.Renan.Rodrigues
-) and share informative content on my [Instagram](https://www.instagram.com/__little__renan__.py/).
+- 🎥 Tech content creator, I create programming tutorials on my [YouTube Channel](https://www.youtube.com/@Dev.Renan.Rodrigues
+)
 - 🎓 Technologist in Systems Analysis and Development
 - 🌐 Passionate about back-end development
-- 💡 I love a good challenge
+- 💡 I love a good challenge and space exploration 🏳️
 
 ## 📊 GitHub Stats
 
